@@ -1,6 +1,6 @@
 ### Hi, I'm Miracle Ajayi! 👋
 
-I'm a dedicated Data Analyst with a passion for using data-driven insights to optimize supply chain and purchasing management. Here's a little more about me:
+I'm a student, dedicated Data Analyst with a passion for using data-driven insights to optimize supply chain and purchasing management. Here's a little more about me:
 
 - 🔭 I’m currently working on advancing my skills in SQL, PowerBI, and Python for data analysis, focusing on applications in supply chain and purchasing management as well as related fields.
 - 🌱 I’m continuously learning and exploring new techniques to enhance my expertise in the field.
